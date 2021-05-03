@@ -34,7 +34,7 @@ And Also I Can Manage Ur Group.. ❤️
                         "⚪ Help ⚪", callback_data="help_back"
                     ),
                     InlineKeyboardButton(
-                        "⚪ Assistant ⚪", url="https://t.me/CoffinXAssistant?startgroup=true"
+                        "⚪ Assistant ⚪", url="https://t.me/KHUFIYAN_PLAYER?startgroup=true"
                     )
                 ],
                 [
@@ -53,7 +53,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/CoffinX_updates"
+                        "🔊 Channel", url="https://t.me/KHUFIYAN_ADDA"
                     )
                 ],[
                     InlineKeyboardButton(
@@ -101,14 +101,14 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/CoffinX_updates"
+                        "🔊 Channel", url="https://t.me/ABOUTSPRAY"
                     )
                 ],[
                     InlineKeyboardButton(
-                        "🚑 Support Group", url="https://t.me/CoffinXsupport"
+                        "🚑 Support Group", url="https://t.me/KHUFIYAN_ADDA"
                     ),
                     InlineKeyboardButton(
-                        "➕Add CoffinX in your group➕", url="https://t.me/CoffinXmusic_BoT?startgroup=true"
+                        "➕Add CoffinX in your group➕", url="https://t.me/KHUFIYAN_VC_BOT?startgroup=true"
                     )
                 ]
             ]
