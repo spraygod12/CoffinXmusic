@@ -23,12 +23,12 @@ And Also I Can Manage Ur Group.. ❤️
             [
                 [
                     InlineKeyboardButton(
-                        "⚪ Support Group ⚪", url="https://t.me/CoffinXsupport",
+                        "⚪ Support Group ⚪", url="https://t.me/KHUFIYAN_ADDA",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "⚪ Channel ⚪", url="https://t.me/CoffinX_updates"
+                        "⚪ Channel ⚪", url="https://t.me/ABOUTSPRAY"
                     ),
                     InlineKeyboardButton(
                         "⚪ Help ⚪", callback_data="help_back"
@@ -39,7 +39,7 @@ And Also I Can Manage Ur Group.. ❤️
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/CoffinXmusic_BoT?startgroup=true"
+                        "➕ Add To Your Group ➕", url="http://t.me/KHUFIYAN_VC_BOT?sartgroup=true"
                     ) 
                 ]
             ]
